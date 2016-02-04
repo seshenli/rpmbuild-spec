@@ -167,5 +167,5 @@ fi
 
 
 %changelog
-* Wed Feb 3 2016 Created by bjywlihui CopyRight@jd.com
+* Wed Feb 3 2016 Created by lihui
 -RPMBUILD OpenResty
